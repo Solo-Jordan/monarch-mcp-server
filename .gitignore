@@ -93,3 +93,7 @@ logs/
 tmp/
 temp/
 .tmp/
+
+# AI files
+docs/
+
